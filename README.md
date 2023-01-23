@@ -2,5 +2,5 @@
 ![Cheese](.idea/azure/cheeseImage.jpeg)
 
 
-![Remote Cheese](https://freepngimg.com/png/10936-cheese-png)
 
+![RemoteImage](https://github.com/margaritalm/RepoWithRemoteImage/blob/main/.idea/azure/cheeseImage.jpeg)
