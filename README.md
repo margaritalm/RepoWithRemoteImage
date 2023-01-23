@@ -1,2 +1,2 @@
 # RepoWithRemoteImage
-[Cheese](![](.idea/cheeseImage.jpeg))
+[Cheese](![](.idea/azure/cheeseImage.jpeg))
